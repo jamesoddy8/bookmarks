@@ -2,11 +2,11 @@ require 'sinatra/base'
 
 class BookmarkManager < Sinatra::Base
   get '/test' do
-    "Testing"  
+    "Testing"
   end
 
   get '/' do
-    'Hello World'
+    'Bookmark Manager'
   end
 
   run! if app_file == $0
