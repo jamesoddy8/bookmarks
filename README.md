@@ -1,6 +1,6 @@
-#Week 4 Afternoon Challenge
+# Week 4 Afternoon Challenge
 
-## User Stories
+## User Stories
 
 ```
 As a user
